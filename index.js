@@ -1,4 +1,4 @@
-const answer = "jdeangelis79"; // Define the correct answer here
+const answer = "JDENANGELIS79"; // Define the correct answer here
 
 document.getElementById("checkButton").addEventListener("click", function () {
     const userAnswer = document.getElementById("answerInput").value.toUpperCase();
