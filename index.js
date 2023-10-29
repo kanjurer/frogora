@@ -5,7 +5,7 @@ document.getElementById("checkButton").addEventListener("click", function () {
     const resultElement = document.getElementById("result");
 
     if (userAnswer === answer) {
-        resultElement.textContent = "https://dalu-my.sharepoint.com/:f:/r/personal/kn947171_dal_ca/Documents/halloween2023/winner?csf=1&web=1&e=2WfMS2";
+        resultElement.textContent = "https://dalu-my.sharepoint.com/:f:/g/personal/kn947171_dal_ca/EvXj8MxWyqdIvJEEp20khmYB6hK_ROixP_mVX8EEI5NIWw";
         resultElement.style.color = "green";
     } else {
         resultElement.textContent = "मौत मौत मौत मौत मौत मौत मौत मौत मौत मौत मौत";
